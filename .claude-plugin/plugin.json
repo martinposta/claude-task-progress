@@ -1,0 +1,8 @@
+{
+  "name": "task-progress",
+  "version": "0.2.0",
+  "description": "Estimated progress bar for the current task above the prompt, read from the task list. Costs zero tokens.",
+  "license": "MIT",
+  "repository": "https://github.com/martinposta/claude-task-progress",
+  "types": "./types/index.d.ts"
+}

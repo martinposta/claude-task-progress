@@ -1,0 +1,11 @@
+{
+  "name": "claude-task-progress",
+  "owner": { "name": "martinposta" },
+  "plugins": [
+    {
+      "name": "task-progress",
+      "source": "./",
+      "description": "Estimated progress bar for the current task above the prompt. Zero tokens."
+    }
+  ]
+}
